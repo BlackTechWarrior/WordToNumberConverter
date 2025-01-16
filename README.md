@@ -94,6 +94,8 @@ The code maintains a parsing state that tracks:
 - Negative flag
 - Decimal processing state
 
+You can also puntuate your input as this will be ignored by the parser before processing. e.g, `twenty-thousand, three-hundred and one #20,301`
+
 ## Limitations
 
 - Maximum number size is the limit for `long long` in C++(~2^63 - 1). However, max tens power is `billion/s`
