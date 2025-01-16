@@ -1,6 +1,6 @@
 # Word to Number Converter
 
-A C++ application that converts numbers written in English words to their numerical representation. This parser handles standard numbers, fractions, decimals, and negative numbers with support for magnitudes up to billions.
+A C++ program that converts numbers written in English words to their numerical representation. This parser handles standard numbers, fractions, decimals, and negative numbers with support for magnitudes up to billions.
 
 ## Features
 
